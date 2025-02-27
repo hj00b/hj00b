@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24,25,26&height=245&fontAlign=65&section=header&text=Welcome%20to%20HJ's%20Github%20:D&fontSize=47)
 <h3>Hi 👋, I'm hyejeong kim</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hj00b&label=Profile%20views&color=0e75b6&style=flat" alt="hj00b" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hj00b&label=Profile%20views&color=0e75b6&style=flat" alt="hj00b" /> </p>-->
 
 
 ## Studing
